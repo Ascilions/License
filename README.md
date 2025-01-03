@@ -1,6 +1,6 @@
-# LICENSE AGREEMENT
+# ASCINDEV LICENSE AGREEMENT
 
-This License Agreement (the "Agreement") is entered into by and between **Ascilion** (the "Licensor"), the creator and owner of various digital textures, mods, models, and intellectual property, and any person, entity, or organization (the "Licensee") who intends to use said digital assets. By downloading, using, or distributing the content subject to this License Agreement, the Licensee agrees to abide by the terms set forth below.
+This License Agreement is entered into by and between **Ascilion** (the "Licensor"), the creator and owner of various digital textures, mods, models, and intellectual property, and any person, entity, or organization (the "Licensee") who intends to use said digital assets. By downloading, using, or distributing the content subject to this License Agreement, the Licensee agrees to abide by the terms set forth below.
 
 ## 1. DEFINITIONS
 

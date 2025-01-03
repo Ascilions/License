@@ -1,80 +1,39 @@
-# ASCINDEV LICENSE AGREEMENT
+# AID Asc-Indev-License
 
-This License Agreement is entered into by and between **Ascilion** (the "Licensor"), the creator and owner of various digital textures, mods, models, and intellectual property, and any person, entity, or organization (the "Licensee") who intends to use said digital assets. By downloading, using, or distributing the content subject to this License Agreement, the Licensee agrees to abide by the terms set forth below.
+The **AID Asc-Indev-License** (the "License") applies to all digital assets, including but not limited to code, textures, models, mods, designs, and other intellectual property ("Assets") created by **Ascilion** (the "Licensor"). By using or distributing these Assets, you agree to comply with the terms outlined in this License.
 
-## 1. DEFINITIONS
+## 1. LICENSE GRANT
 
-1.1 **"Textures"** refer to digital graphical designs, patterns, and visual elements created by the Licensor, including but not limited to textures, color palettes, and other visual assets.
+The Licensor hereby grants you (the "Licensee") a **non-exclusive, non-transferable, royalty-free** license to use, copy, modify, distribute, and sublicense the **Assets** subject to the conditions outlined in this License. 
 
-1.2 **"Mods"** refers to modifications or customizations made to existing software, games, or digital assets by the Licensor, which may include new functionalities, visual enhancements, or code alterations.
+## 2. CONDITIONS
 
-1.3 **"Models"** refers to any 3D models, assets, or objects created or modified by the Licensor for use in digital or virtual environments.
+2.1 **Attribution**: You must provide proper attribution to the Licensor. This includes including a reference to the Licensor's name, **Ascilion**, in all instances where the **Assets** are used or distributed.
 
-1.4 **"Intellectual Property"** includes all original ideas, designs, modifications, and any derivative works created by the Licensor.
+2.2 **No Warranty**: The **Assets** are provided "as is," without warranty of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the Licensor be liable for any claim, damages, or other liability arising from your use of the **Assets**.
 
-## 2. OWNERSHIP AND COPYRIGHT
+2.3 **No Derivative Works Without Permission**: You may not create derivative works from the **Assets** that would compete with or infringe upon the Licensor's intellectual property, unless express written permission is granted by the Licensor.
 
-2.1 The Licensor, **Ascilion**, retains full ownership and copyright to all original works created, including but not limited to all **Textures**, **Mods**, **Models**, and **Ideas**.
+2.4 **Commercial Use**: You may use the **Assets** for personal, academic, or commercial purposes. However, you must not sell or sublicense the **Assets** as part of a package or collection without prior written consent from the Licensor.
 
-2.2 The Licensee acknowledges that all works provided by the Licensor are protected under relevant copyright and intellectual property laws and agrees not to infringe upon the Licensor’s rights in any manner.
+2.5 **Respect for License Terms**: Any use of the **Assets** must comply with the terms and conditions outlined in this License. Any violation of these terms will result in the automatic termination of your rights under this License.
 
-## 3. USAGE RIGHTS
+## 3. OWNERSHIP
 
-3.1 The Licensee may not use, distribute, or otherwise exploit any of the **Textures**, **Mods**, **Models**, or other intellectual property covered by this Agreement without the prior written consent of the Licensor.
+The **Assets** remain the exclusive property of the Licensor, **Ascilion**. This License does not grant you ownership of the **Assets**; it only provides you with the right to use the **Assets** under the specified terms.
 
-3.2 The Licensee shall not sell, sublicense, rent, lease, or distribute any **Textures**, **Mods**, **Models**, or derivative works created by the Licensor to any third parties.
+## 4. TERMINATION
 
-3.3 The Licensee is prohibited from using any **Textures** or **Color Palettes** created by the Licensor without express written permission.
+This License will terminate automatically if you fail to comply with any of the terms. Upon termination, you must cease all use, distribution, and modification of the **Assets**. 
 
-3.4 Any **Texture** or **Model** modified by the Licensor shall be deemed entirely the Licensor’s creation, and the Licensee shall not use it in any form without written authorization from the Licensor.
+## 5. GOVERNING LAW
 
-## 4. RESTRICTIONS ON DERIVATIVE WORKS
+This License is governed by and construed in accordance with the laws of the jurisdiction in which the Licensor resides. Any legal disputes arising from this License will be subject to the exclusive jurisdiction of the courts in that jurisdiction.
 
-4.1 The Licensee is prohibited from creating derivative works based on the Licensor’s **Ideas**, **Textures**, **Mods**, **Models**, or other intellectual property, including but not limited to knockoff versions or products inspired by the Licensor's work, without the explicit written permission of the Licensor.
+## 6. NO OTHER RIGHTS
 
-4.2 Any modification, reverse engineering, or adaptation of the Licensor's work shall be considered a violation of this Agreement.
+No rights are granted beyond those specifically outlined in this License. You may not transfer, sublicense, or otherwise assign the rights granted under this License without express permission from the Licensor.
 
-## 5. TERM AND TERMINATION
+## 7. ACKNOWLEDGEMENT
 
-5.1 This Agreement is effective as of the date the Licensee agrees to the terms and shall remain in effect until terminated by either party.
-
-5.2 The Licensor may terminate this Agreement at any time if the Licensee violates any of the terms set forth herein. Upon termination, the Licensee must immediately cease all use, distribution, or reproduction of the Licensor's **Textures**, **Mods**, **Models**, or any other intellectual property covered under this Agreement.
-
-## 6. INDEMNIFICATION
-
-6.1 The Licensee agrees to indemnify, defend, and hold harmless the Licensor from any claims, liabilities, damages, losses, or expenses arising from the Licensee’s use of the **Textures**, **Mods**, **Models**, or other intellectual property in violation of this Agreement.
-
-## 7. NO TRANSFER OF RIGHTS
-
-7.1 This Agreement grants the Licensee a limited, non-transferable, and non-exclusive license to use the **Textures**, **Mods**, **Models**, or other intellectual property only in accordance with the terms set forth herein.
-
-7.2 The Licensee shall not assign, transfer, or sublicense any rights under this Agreement to any third party.
-
-## 8. GOVERNING LAW AND DISPUTE RESOLUTION
-
-8.1 This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor resides.
-
-8.2 Any dispute arising from or related to this Agreement shall be resolved through binding arbitration in the Licensor’s jurisdiction, and the decision rendered in such arbitration shall be final.
-
-## 9. ENTIRE AGREEMENT
-
-9.1 This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof and supersedes all prior discussions, agreements, or understandings, whether written or oral, between the parties.
-
-## 10. SEVERABILITY
-
-10.1 If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
-
-## 11. AMENDMENT
-
-11.1 The Licensor reserves the right to amend this Agreement at any time. Any such amendment will be communicated to the Licensee in writing, and continued use of the Licensor’s **Textures**, **Mods**, **Models**, or other intellectual property will constitute acceptance of such amendments.
-
----
-
-## IN WITNESS WHEREOF
-
-The parties hereto have executed this License Agreement as of the date indicated below.
-
-**Licensor**: Ascilion  
-**Licensee**: AscilionINDEV License 1.0.0  
-
-**Date**: 01/03/2025
+By using, copying, modifying, or distributing the **Assets**, you acknowledge that you have read, understood, and agreed to the terms of this **AID Asc-Indev-License**.

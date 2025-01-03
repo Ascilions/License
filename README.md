@@ -75,6 +75,6 @@ This License Agreement (the "Agreement") is entered into by and between **Ascili
 The parties hereto have executed this License Agreement as of the date indicated below.
 
 **Licensor**: Ascilion  
-**Licensee**: [Name of Licensee or Organization]  
+**Licensee**: AscilionINDEV License 1.0.0  
 
-**Date**: [Effective Date of Agreement]
+**Date**: 01/03/2025

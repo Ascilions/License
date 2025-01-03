@@ -14,7 +14,7 @@ The Licensor hereby grants you (the "Licensee") a **non-exclusive, non-transfera
 
 2.3 **No Derivative Works Without Permission**: You may not create derivative works from the **Assets** that would compete with or infringe upon the Licensor's intellectual property, unless express written permission is granted by the Licensor.
 
-2.4 **Commercial Use**: You may use the **Assets** for personal, academic, or commercial purposes. However, you must not sell or sublicense the **Assets** as part of a package or collection without prior written consent from the Licensor.
+2.4 **Commercial Use**: You may not use the **Assets** for personal, academic, or commercial purposes. Unless the Licenser **Ascilion** has given your written permission to do so.
 
 2.5 **Respect for License Terms**: Any use of the **Assets** must comply with the terms and conditions outlined in this License. Any violation of these terms will result in the automatic termination of your rights under this License.
 

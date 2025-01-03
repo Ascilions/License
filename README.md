@@ -4,7 +4,7 @@ The **AID Asc-Indev-License** (the "License") applies to all digital assets, inc
 
 ## 1. LICENSE GRANT
 
-The Licensor hereby grants you (the "Licensee") a **non-exclusive, non-transferable, royalty-free** license to use, copy, modify, distribute, and sublicense the **Assets** subject to the conditions outlined in this License. 
+The Licensor hereby grants you (the "Licensee") a **non-exclusive, non-transferable, royalty-free** license to view, which may not be copied, modified, distributed, or sublicensed, the Licensor grants your permission to use the **Assets** subject to the conditions outlined in this License. 
 
 ## 2. CONDITIONS
 
